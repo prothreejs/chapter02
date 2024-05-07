@@ -6,7 +6,7 @@ _Este capitulo contiene la modificacion de los archivos index.html, script.js y 
 
 ### Modificar el archivo index.html agregando las siguientes lineas de codigo. 📋
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -21,7 +21,7 @@ _Este capitulo contiene la modificacion de los archivos index.html, script.js y 
 ```
 ### Modificar el archivo script.js agregando las siguientes lineas de codigo. 📋
 
-```
+```javascript
 import * as THREE from 'three';
 
 const scene = new THREE.Scene();
@@ -52,7 +52,7 @@ animate();
 ```
 ### Modificar el archivo style.css agregando las siguientes lineas de codigo. 📋
 
-```
+```css
 body { margin: 0; }
 ```
 ### Compilar y desplegar 📋
