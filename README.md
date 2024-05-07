@@ -55,6 +55,18 @@ animate();
 ```
 body { margin: 0; }
 ```
+### Compilar y desplegar 📋
+
+_Descarga o clona el proyecto tu maquina local y compila con **NPM** sobre la ruta del la carpeta chapter02 ejecutar lo siguientes 2 comandos_
+
+```
+]$ npm install
+```
+```
+]$ npm run dev
+```
+**Copia y pega en un navegador web la URL resultante http://localhost:5173/ y ve el resultado** 
+
 ## Construido con 🛠️
 
 _El proyecto esta contruido con las siguientes herramientas:_
